@@ -5,7 +5,7 @@ Docker environment required to run Laravel (based on official php and mysql dock
 [![CircleCI](https://circleci.com/gh/dimadeush/docker-nginx-php-laravel.svg?style=svg)](https://circleci.com/gh/dimadeush/docker-nginx-php-laravel)
 [![Coverage Status](https://coveralls.io/repos/github/dimadeush/docker-nginx-php-laravel/badge.svg)](https://coveralls.io/github/dimadeush/docker-nginx-php-laravel)
 
-[Source code](https://github.com/dimadeush/docker-nginx-php-laravel.git)
+[Source code](https://github.com/huuphuoc2791/laravel-vuex-typescript.git)
 
 ## Requirements
 * Docker version 18.06 or later
@@ -19,7 +19,7 @@ Note: OS recommendation - Linux Ubuntu based.
 1. Nginx 1.17
 2. PHP 7.4 fpm
 3. MySQL 8
-4. Laravel 6
+4. Laravel 7.x
 
 ## Setting up DEV environment
 1.Clone this repository from GitHub.
@@ -116,7 +116,7 @@ etc....
 Notes: Please see more commands in Makefile
 
 ## Architecture & packages
-* [Laravel 6](https://laravel.com)
+* [Laravel 7](https://laravel.com)
 * [laravel-migrations-organiser](https://github.com/JayBizzle/Laravel-Migrations-Organiser)
 * [phpunit](https://github.com/sebastianbergmann/phpunit)
 * [laravel-ide-helper](https://github.com/barryvdh/laravel-ide-helper)
